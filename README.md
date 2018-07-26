@@ -4,3 +4,8 @@ This repository contains
 * SQLite Database
 * Content Provider
 * Notepad App
+* Shared Prefrences
+* Android Menus
+* Tabs Activity
+* Internal Storage
+* Drawing App
